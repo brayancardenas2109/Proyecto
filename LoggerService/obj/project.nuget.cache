@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3aqIztwFl8CRLggD+IzgPD36WAKOn+KDxL6jWYTxOe7f7DmsstUCyleeDxwEWTv4U0CLlQyC5E5cmjuIl1Di0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\57313\\Desktop\\proyecto\\Proyecto\\LoggerService\\LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\57313\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\57313\\.nuget\\packages\\nlog\\5.2.3\\nlog.5.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
